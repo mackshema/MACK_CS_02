@@ -42,17 +42,6 @@ replied to, and no illegal activity was performed.
 
 ---
 
-## 📁 Repository Structure
-📦 task2-phishing-awareness/
-├── 📄 README.md
-├── 📄 Phishing_Detection_Awareness_Report_Task2.pdf
-├── 📄 Phishing_Detection_Awareness_Report_Task2.docx
-├── 📂 samples/
-│   ├── PHISH-001_fake_bank_alert.txt
-│   ├── PHISH-002_fake_delivery.txt
-│   └── PHISH-003_fake_it_reset.txt
-
----
 
 ## ⚠️ Ethical Disclaimer
 
